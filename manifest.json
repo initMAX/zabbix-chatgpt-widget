@@ -1,0 +1,29 @@
+{
+    "manifest_version": 2.0,
+    "id": "openai",
+    "type": "widget",
+    "name": "OpenAI widget",
+    "namespace": "OpenAI",
+    "version": "1.0",
+    "author": "initMAX s.r.o.",
+    "url": "https://www.initmax.com",
+    "description": "Chatting with OpenAI widget",
+    "actions": {
+        "widget.openai.view": {
+            "class": "WidgetView"
+        }
+    },
+    "widget": {
+        "name": "OpenAI",
+        "size": {
+            "width": 4,
+            "height": 4
+        },
+        "refresh_rate": 0,
+        "js_class": "CWidgetOpenAI"
+    },
+    "assets": {
+        "css": ["widget.css"],
+        "js": ["class.widget.js"]
+    }
+}
