@@ -4,6 +4,8 @@
 
 This is a Zabbix widget using ChatGPT bot, which responds accordingly to the standard OpenAI requests.
 
+Deme examle https://www.initmax.cz/zabbix/zabbix.php?action=dashboard.view&dashboardid=56&page=10 (Login as Quest)
+
 ## Widget
 <img src="images/ChatGPT.png" width="1024" />
 
