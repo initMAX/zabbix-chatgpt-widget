@@ -1,4 +1,3 @@
-
 # Zabbix ChatGPT widget
 
 ## Description
@@ -7,6 +6,7 @@ This is a Zabbix widget using ChatGPT bot, which responds accordingly to the sta
 
 ## Requirements
  - Zabbix 7.0 (still in development, so this module will be updated accordingly)
+ - You need to create OpenAI API token https://platform.openai.com/docs/introduction/overview
 
 ## Setup
 
