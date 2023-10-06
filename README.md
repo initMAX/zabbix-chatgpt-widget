@@ -4,6 +4,12 @@
 
 This is a Zabbix widget using ChatGPT bot, which responds accordingly to the standard OpenAI requests.
 
+## Widget
+<img src="images/ChatGPT.png" width="700" height="500" />
+
+## Configuration popup
+<img src="images/ChatGPT-setting.png" width="525" height="450" />
+
 ## Requirements
  - Zabbix 7.0 (still in development, so this module will be updated accordingly)
  - You need to create OpenAI API token https://platform.openai.com/docs/introduction/overview
